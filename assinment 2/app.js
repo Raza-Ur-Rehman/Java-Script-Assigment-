@@ -2,7 +2,7 @@
 
 var username;
 
-var Myname = "Abdul Ahad";
+var Myname = "Raza ur Rehman";
 
 var message = "Hello World";
 
@@ -14,7 +14,7 @@ student = "Johne Doe";
 
 alert (student)
 
-student = "15 year old";
+student = "20 year old";
 
 alert(student);
 
@@ -28,7 +28,7 @@ alert(pizza);
 
 var email = "My Email Address is ";
 
-var email2 = " helloahadadhi@gmail.com";
+var email2 = " mrazaurrehman12345@gmail.com";
 
 alert(email+email2);
 
@@ -53,7 +53,7 @@ var site = "you have visited this site 100 times";
 
 alert(site)
 
-var birthYear = "Born in 2005 finally gonna 18\n";
+var birthYear = "Born in 2004 finally gonna 18\n";
 
 document.write(birthYear)
 
